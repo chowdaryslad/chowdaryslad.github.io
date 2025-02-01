@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+    padding-top: 20px;
+}
+
+.box1, .box2 {
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.box1 {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+.box2 {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+h2 {
+    color: darkslategray;
+    font-size: 1.5em;
+}
+
+p {
+    color: #333;
+    font-size: 1.1em;
+}
